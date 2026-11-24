@@ -4,11 +4,13 @@
     {"name":"sprites","order":2,"path":"folders/sprites.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"cass","order":10,"path":"objects/cass/cass.yy",},
     {"name":"character","order":4,"path":"objects/character/character.yy",},
     {"name":"obj_slideshow","order":8,"path":"objects/obj_slideshow/obj_slideshow.yy",},
     {"name":"Sprite2","order":6,"path":"sprites/Sprite2/Sprite2.yy",},
     {"name":"Sprite3","order":7,"path":"sprites/Sprite3/Sprite3.yy",},
     {"name":"Sprite4","order":9,"path":"sprites/Sprite4/Sprite4.yy",},
+    {"name":"Sprite5","order":11,"path":"sprites/Sprite5/Sprite5.yy",},
     {"name":"TileSet1","order":5,"path":"tilesets/TileSet1/TileSet1.yy",},
   ],
 }
